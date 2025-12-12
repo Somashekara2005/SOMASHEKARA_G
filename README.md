@@ -108,7 +108,7 @@ I love creating solutions that combine **software + hardware + data** to solve m
 ---
 
 ## 🚀 **My Vision**
-> “I want to build intelligent, data-driven solutions that make a real impact —  
+> “I want to build intelligent, data-driven solutions that make a real impact 
 > blending AI, analytics, and engineering to solve real-world problems.”
 
 ---
